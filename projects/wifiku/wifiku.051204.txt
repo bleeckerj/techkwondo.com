@@ -1,0 +1,306 @@
+5-7-5
+
+Location
+Rivington between Ludlow and Orchard
+Near 95 Rivington St
+
+-> 
+  lo, rough-cut mysweat
+  Michael Jenny scott NickH
+  safetyintheair
+
+* rough-cut
+* default
+* Participantinc
+* NickH
+* mysweat
+* dianewinne
+* scott
+* safetyintheair
+* NETGEAR
+
+
+participantinc
+mysweat, NickH rough-
+cut, default
+
+
+Allen between Rivington and Delancey
+near 137
+
+* Frogpong
+* Jenny
+* LES international
+* linksys
+* Michael
+* NETGEAR
+* NETGEAR
+* lo
+
+
+Orchard St. between Delancey and Broome
+near #93
+
+-> 
+ zerocode Emma 
+ WLCM
+ SpeedStream, brooklynbub
+
+ brooklynbub, SpeedStream
+ WLCM
+ NIKHILNYC
+ 
+* brooklynbub
+* SpeedStream
+* zerocode
+* default
+* Verizon Wi-Fi
+* Mehretu
+* NIKHILNYC
+* NETGEAR
+* Emma
+* WLCM
+* AndrosCliet
+
+Orchard St. between Grand and Hestor
+* haris
+* linksys
+* NETGEAR
+* Verizon Wi-Fi
+* NETGEAR 
+
+
+
+Hester between Eldgridge and Allen No. 94 Hestor
+
+-> 
+* jackass
+* default
+* SMC
+* rapcpoly
+* pebbles
+* poly11
+* linksys
+* linksys
+* default
+
+Bowery between Hester and  1blk south around No. 96
+* linksys
+* linksys
+* verizon
+* SST-PR-1
+* belkin54g
+* lisa_wireless
+
+Grand between Bowery and Elizabeth no. 230
+
+->
+  wiremore Mercer
+  AP_Router default
+  default SMC
+
+* wiremore
+* linksys
+* SMC
+* Mercer
+* default
+* Apple Network f40c3c
+* linksys
+* AP_Router
+
+
+Grand between EliZabeth and Mulberry no. 198
+
+->
+  PlanetMott straightedge
+  Lacigars59
+  Capitale airport
+
+  Capitale NETGEAR  
+  NLOBGYN
+  linksys2 default
+
+* Lacigars59
+* sjserranetwork
+* linksys2
+* linksys
+* NLOBGYN
+* PlanetMott
+* linksys
+* NETGEAR
+* JATAIRPORT
+* ConnectionPoint
+* airport
+* default
+* Capitale
+
+Grand betwen Baxter and Mulberry no. 173
+* straightedge
+* Apple NEtwork f80f12
+* curtis
+* EC
+* linksys x 4
+* ruahome
+* BNS Base Station Extreme
+* eliasNet
+* mmw
+* AlmaVieru
+* home
+* film50
+
+Grand between Crosby and Broadway no. 129
+
+->
+  TonyTina zeus
+  Centre Street Whore House home
+  tsunami 3com
+
+* 462FCI
+* www.nycwireless.net
+* TonyTina
+* default
+* linksys
+* LHPA
+* DDNY
+* WSR-5000
+* Oranges
+* DLStudioNetwork
+* aewireless01
+* 3Com
+* linksys
+* zeus
+* Verizon Wi-Fi
+* Roverstyle
+* Exweb
+* linksys
+* Groovy Yoga Network
+* NETGEAR x2
+* Centre Street Whore House
+* WNR2004
+* Nellie Nakatani
+* tsunami
+* newmagic
+* cchin
+* 6e0d50
+
+Broadway between Broome and Spring
+
+->
+   Sabrina The Loft
+   store FOUR office zeus
+   NewYorkOffice store
+
+   AntennaAir-g
+   FOUR mevrock FOUR store
+   brad's airport The Loft
+   
+* mevrock
+* linksys x2
+* brad's airport
+* store
+* linksys x2
+* office
+* NewYorkOffice
+* Sabrina
+* NETGEAR
+* TAG_NY_NETGEAR
+* Shorecliff Prop
+* FOUR
+* DREV
+* NETGEAR
+* Kalman
+* tmobile
+* AntennaAir-g
+* The Loft
+* vusa
+
+Spring between Crosby and Broadway no. 87
+
+-> 
+  Wolverine Rear bel
+  vantagepoint Bug Airport bel
+  lafayette bel bel
+
+* lafayette
+* Bug Airport
+* bel
+* mcon
+* NK Pad 2
+* vantagepoint
+* tmobile
+* Wolverine Rear
+* QlikTech Wireless
+* dubewireless77
+* wgwnet
+
+Spring between Mulberry and Mott no. 37
+->
+
+   Zanzibar Joe farm
+   NikiRami Joe Charter 
+   poogene elanlic
+
+* linksys
+* NETGEAR x2 
+* farm
+* Zanzibar
+* galeit
+* thehappycorp.com
+* 2WIRE787
+* NikiRami
+* Charter
+* Joe
+* LafMedMgt
+* poogene
+* elanlic
+* Golden Flower
+* default
+* WLAN
+
+Spring between Bowery and Elizabeth
+* jb's network
+* Wild Wonder
+* williams
+* Wireless
+* 
+
+Rivington between Forsythe + Bowery
+->
+  offsoho broadlands
+  jaguar outlaw
+  imreyculbert
+
+  broadlands Loreley
+  10011  
+  philip's network failed
+
+  catanddogs Kenya
+  moses SoonWiFi2 failed
+  193 Eldgridge
+
+* studio191ny
+* imreyculbert
+* offsoho cafe AP-BG
+* offsoho
+* broadlands
+* philip's network
+* Loreley
+* 10011
+* jaguar
+* whY-Q
+* LccT
+* blvdnyc
+* failed
+* SoonWiFi2
+* catanddogs
+* outlaw
+* Kenya
+* WLCM
+* cchin
+* home66
+* phnphunk
+* AirStaple
+* rma
+* moses
+* linksys
+* 193 Eldgridge

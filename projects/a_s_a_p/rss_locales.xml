@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<rss version="2.0" xmlns:icbm="http://postneo.com/icbm/"
+xmlns:photo="http://brainoff.com/" xmlns:dc="http://purl.org/dc/elements/1.1">
+  <channel> 
+    <title>Last New York Days</title>
+    <link>http://www.techkwondo.com/project/another_spatial_annotation_project</link>
+    <description>Another Spatial Annotation Project test</description>
+    <item>
+        <title>Like Running Through a Herd Of Cattle</title>
+        <link>http://www.techkwondo.com/projects/a_s_a_p/5.jpg</link>
+	<description>This mass of humanity is going to be replaced by
+	the mass of steel on the 405 and i'll feel right at home in
+	LA</description>
+	<icbm:latitude>40.75564</icbm:latitude>
+	<icbm:longitude>-73.987598</icbm:longitude>
+	<dc:subject>New York City</dc:subject>
+	<!--photo:thumbnail>5.jpg</photo:thumbnail-->
+    </item>
+    <item>
+        <title>Here I Am</title>
+        <!--link>http://www.techkwondo.com/projects/a_s_a_p/5.jpg</link-->
+	<description>I wrote this little program. How well does this
+	really work? It's okay but has a few bugs..</description>
+	<icbm:latitude>40.738332</icbm:latitude>
+	<icbm:longitude>-74.002927</icbm:longitude>
+	<dc:subject>New York City</dc:subject>
+	<!--photo:thumbnail>5.jpg</photo:thumbnail-->
+    </item>
+  </channel>
+</rss>
+<!--/rdf:RDF-->

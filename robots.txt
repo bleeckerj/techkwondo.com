@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /webalizer
+Disallow: /projects/bedouin/press_images
+#Disallow: /external/
+#Disallow: /external/pdf/
+#Disallow: /external/pdf/reports
